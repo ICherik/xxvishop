@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "iolax",
   "license": "ISC",
   "dependencies": {
     "@discordjs/voice": "^0.16.1",
